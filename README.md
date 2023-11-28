@@ -54,3 +54,6 @@ For any inquiries or support, reach out to the developer iSteve on:
 ### Acknowledgements
 Special thanks to:
 - to rahmatullah99 for his contributions to the projects
+
+### Screenshots
+  ![20231123_162321_0000](https://github.com/isteveweb/blood-pressure-monitorApp/assets/130738521/eb0c4b4c-dce2-41e7-8325-29af11ed55f0)
