@@ -43,13 +43,13 @@ Contributions are welcome! Here's how you can contribute:
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](link_to_license_file) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ### Support
 
 For any inquiries or support, reach out to the developer iSteve on:
 - Email: isteveweb@gmail.com
-- GitHub Issues: [Project Issues](link_to_project_issues)
+  
 
 ### Acknowledgements
 Special thanks to:
